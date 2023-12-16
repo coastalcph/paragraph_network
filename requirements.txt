@@ -1,0 +1,7 @@
+numpy
+pandas
+click
+scikit-learn
+tqdm
+scipy
+openpyxl
